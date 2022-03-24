@@ -1,9 +1,10 @@
 * {
     /*font-size: 100%;*/
+    font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
 }
 
 .survey {
-    width: 900px;
+    width: 1000px;
 }
 
 .survey textarea {
