@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e6cd56-6494-4cc0-ba74-b424564df6aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bt_tao_form_dang_ky/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt_tao_form_dang_ky/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt_tao_form_lay_survey/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/bt_tao_form_lay_survey/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648104608918</updated>
       <workItem from="1648104610483" duration="6669000" />
-      <workItem from="1648111345125" duration="121000" />
+      <workItem from="1648111345125" duration="808000" />
     </task>
     <servers />
   </component>
