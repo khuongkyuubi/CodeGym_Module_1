@@ -35,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bt_tao_bang_nang_cao/part_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_1_HTML_CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -56,6 +56,7 @@
       <updated>1648104608918</updated>
       <workItem from="1648104610483" duration="6669000" />
       <workItem from="1648111345125" duration="9384000" />
+      <workItem from="1648169511339" duration="307000" />
     </task>
     <servers />
   </component>
